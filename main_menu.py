@@ -35,7 +35,7 @@ def main_menu():
            csvcpu.export_grouped_by()
         elif choice == "6":
            csvcpu.export_pivot_table()
-        elif choice == "71":
+        elif choice == "7":
             print("Application Exiting...")
             break
         else:
